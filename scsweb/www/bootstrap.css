@@ -1,0 +1,12 @@
+img {
+	max-width: 100%;
+    height: auto;
+}
+iframe{
+	width:110%;
+	height: 400px;
+}
+.container {
+  display: grid;
+  grid-template-rows: auto;
+}
